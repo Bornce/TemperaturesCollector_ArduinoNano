@@ -1,0 +1,17 @@
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.exe.config
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.exe
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.pdb
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.Form1.resources
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.Properties.Resources.resources
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.csproj.GenerateResource.Cache
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.exe
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.pdb
+E:\0007 C# program\0010DTU自动配置工具\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.csprojResolveAssemblyReference.cache
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.exe.config
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.exe
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\bin\Debug\DTU_Configurer.pdb
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.Form1.resources
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.Properties.Resources.resources
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.csproj.GenerateResource.Cache
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.exe
+E:\0007 C# program\0013DTU自动配置工具 - 副本\DTU_Configurer\DTU_Configurer\obj\Debug\DTU_Configurer.pdb
