@@ -4,7 +4,14 @@
 */
 
 #include  "string.h"
+#include <MsTimer2.h>
 #include <stdio.h>
+
+
+
+#define LEDPIN  13
+
+
 
 const  char  ServerCMD[]={"UPDATE THE DATA PLEASE"};
 
@@ -12,9 +19,23 @@ const  char  ServerCMD[]={"UPDATE THE DATA PLEASE"};
 int lenOfUartRev  = 0;
 float temperatureBuff[8]={0.0};
 
+
+
+
+void onTimer() 
+{
+  digitalWrite(LEDPIN, !digitalRead(LEDPIN));
+}
+//
+
 void  setup(void)
 {
   Serial.begin(115200);
+  pinMode(LEDPIN, OUTPUT);
+
+
+  MsTimer2::set(200, onTimer); //设置中断，每1000ms进入一次中断服务程序 onTimer()
+  MsTimer2::start(); //开始计时 
 }
 //
 
