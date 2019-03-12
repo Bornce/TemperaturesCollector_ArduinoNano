@@ -1,0 +1,9 @@
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\bin\Debug\DTU_Configurer.exe.config
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\DTU_Configurer.exe
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\DTU_Configurer.pdb
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\温度采集上位机.csprojResolveAssemblyReference.cache
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\DTU_Configurer.Properties.Resources.resources
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\温度采集上位机.csproj.GenerateResource.Cache
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Debug\温度采集上位机.Form1.resources
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\bin\Debug\DTU_Configurer.exe
+E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\bin\Debug\DTU_Configurer.pdb
