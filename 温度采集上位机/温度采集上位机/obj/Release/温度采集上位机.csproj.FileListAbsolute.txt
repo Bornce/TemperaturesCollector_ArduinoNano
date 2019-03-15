@@ -7,3 +7,12 @@ E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采�
 E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Release\DTU_Configurer.exe
 E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Release\DTU_Configurer.pdb
 E:\0007 C# program\0013DTU温度采集上位机\温度采集上位机\温度采集上位机\obj\Release\温度采集上位机.csprojResolveAssemblyReference.cache
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\bin\Release\DTU_Configurer.exe.config
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\DTU_Configurer.exe
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\DTU_Configurer.pdb
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\bin\Release\DTU_Configurer.exe
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\bin\Release\DTU_Configurer.pdb
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\温度采集上位机.csprojResolveAssemblyReference.cache
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\温度采集上位机.Form1.resources
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\DTU_Configurer.Properties.Resources.resources
+E:\0002 ZhangJinSongColdChainDelivery\TemperaturesCollector_ArduinoNano\温度采集上位机\温度采集上位机\obj\Release\温度采集上位机.csproj.GenerateResource.Cache

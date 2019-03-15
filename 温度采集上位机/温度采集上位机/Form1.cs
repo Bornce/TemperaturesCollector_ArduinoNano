@@ -286,6 +286,9 @@ namespace 温度采集上位机
 
 
             string ConvertChar2String;
+
+            Thread.Sleep(10);
+
             revDataLen  =   SP.Read(revData, 0, SP.BytesToRead);
             ConvertChar2String = Encoding.UTF8.GetString(revData,0, revDataLen);
 
