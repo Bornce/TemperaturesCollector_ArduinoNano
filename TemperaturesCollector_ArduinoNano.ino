@@ -172,8 +172,6 @@ void  loop()// run over and over
   for(int channelIndex=0;channelIndex<8;channelIndex++)
   {
     temperatureBuff[channelIndex] = GetTemperatureFromNTC(temperatureBuff[channelIndex],Res_10K_B3900K);
-    
-
   }
   //
 
